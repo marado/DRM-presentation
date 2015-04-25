@@ -1,0 +1,166 @@
+Considerações sobre a Indústria Discográfica
+
+TODO* Ir buscar alguns dados à wikipédia sobre as "Major Labels"
+
+A tecnologia foi avançando o mercado da música lentamente, com tecnologias como:
+	Divulgação
+		* Imprensa escrita
+		* Rádio
+		* Televisão
+	Vendas
+		* K7 / Vinyl
+		* Compact Disc
+
+Mas de repente chegou a Internet, a banda larga, o estúdio caseiro... e a evolução tecnológica deixou de:
+	* Ser feita por eles
+	* Ser controlada e regrada por eles
+
+Pelo que eles tinham duas hipóteses:
+	* Inovar / Acompanhar a tecnologia
+	* Ignorar as novas tecnologias e manter as atenções viradas para as tecnologias que eles controlam
+
+Inovar e Acompanhar a tecnologia é um investimento:
+	* Despesas imediatas
+	* Lucros apenas a médio ou longo prazo
+
+Ignorar as novas tecnologias passou a ser impossível: com ou sem eles...
+	* Origem e destino exploram novos meios de comunicação
+		* Artistas usam a tecnologia para divulgação
+		* "Consumidores" usam meios mais fáceis e práticos
+
+A entrada no "mercado digital"
+	* Tentativa de erradicação de agentes actuais nesse mercado
+	* Entrada no novo mercado com a venda de "música digital"
+
+Está a funcionar?
+	* O modelo centra-se em vários conceitos que, analizados, mostram-se absurdos
+		* Repressão / Medo
+		* Consumidor paga o fabrico, a distribuição, faz todo o trabalho e ainda paga mais
+			* 2 Euro / música == 20 Euro por 10 músicas
+		* ...e ainda por cima paga mais por menos!
+			* um CD oferece mais do que as suas faixas digitalizadas
+			* tecnologias de restrição (DRM)
+	* Como pode funcionar?
+
+DRM
+	* Tecnologia que implementa restrições aos seus utilizadores
+	* Restrições ultrapassam largamente as legais
+	* ... e não protegem em nada os direitos de autor
+	* ... restringindo os do consumidor!
+	* Mas tem futuro?
+	* Tem o futuro que NÓS, consumidores, deixar-mos ter
+	* Tem mais defeitos que os necessários para falhar
+	* ... mas foi um investimento, e tentar-se-à tirar o máximo partido dele!
+	* Milhares de pessoas boicotam produtos da EMI por venderem discos que não tocam em todos os locais em que os CD's tocam
+	* Milhares de pessoas boicotar a Sony, após venderem discos com DRM que, entre outras coisas, abria falhas de segurança em PC's
+	* Milhares de pessoas boicotam o iTunes porque uma música comprada lá não pode legalmente ser tocada em mais do que um device
+	* Quem quer pagar para CONHECER, EXPLORAR música?
+	* É uma tecnologia difícil de usar, a par de tecnologias sem DRM
+	* A música deixa de ser _vendida_ e passa a ser alugada, mas por um preço maior!
+
+Qual é o problema das alternativas?
+	* A indústria discográgica actualmente controla todo o fluxo:
+		* Escolhe as bandas
+		* Escolhe as gravações
+		* Escolhe a produção
+		* Faz o lançamento
+		* Faz a promoção
+		* Controla a distribuição
+		* CONTROLAM O QUE TU OUVES!!!
+	* Os novos modelos permitem:
+		* Música como Arte
+		* Músicos a fazerem as suas gravações
+		* Músicos a escolherem a sua produção
+		* Músicos a fazerem lançamento
+		* Músicos a fazerem promoção
+		* Músicos a controlarem a distribuição, ou melhor...
+		* Amantes da música a fazerem, sem controlo, a distribuição!
+		* TU ESCOLHES O QUE OUVES!!!
+	* Mas... E as editoras?
+		* É um mercado livre, elas podem (e vão) estar sempre nele
+		* Podem continuar a escolher bandas, fazer gravações, escolher produtores, fazer lançamentos e promoções...
+		* Só não podem monopolizar o mercado!
+	* Não estarão, se o fizerem, condenados?
+		* Condenados estarão se não o fizerem: cada vez mais NÓS falamos, alto, contra eles
+		* Se entrarem no novo mercado, sem truques e cumprindo as regras de qualquer mercado... Como podem falhar?
+
+Qual é o problema das alternativas?
+	* Além de acabar a manipulação do mercado?
+	* Além de acabar a posição monopolista?
+	* Além de serem forçados a deixar de ser incompetentes?
+	* Além de ser o fim das "black boxes"?
+		* O YouTube passou a ser mais uma... a única diferença é que não é pagamento comunitário, AINDA!
+	* A indústria discográgica actualmente controla todo o fluxo:
+		* Escolhe as bandas
+		* Escolhe as gravações
+		* Escolhe a produção
+		* Faz o lançamento
+		* Faz a promoção
+		* Controla a distribuição
+		* CONTROLAM O QUE TU OUVES!!!
+	* Os novos modelos permitem:
+		* Música como Arte
+		* Músicos a fazerem as suas gravações
+		* Músicos a escolherem a sua produção
+		* Músicos a fazerem lançamento
+		* Músicos a fazerem promoção
+		* Músicos a controlarem a distribuição, ou melhor...
+		* Amantes da música a fazerem, sem controlo, a distribuição!
+		* TU ESCOLHES O QUE OUVES!!!
+	* Mas... E as editoras?
+		* É um mercado livre, elas podem (e vão) estar sempre nele
+		* Podem continuar a escolher bandas, fazer gravações, escolher produtores, fazer lançamentos e promoções...
+		* Só não podem monopolizar o mercado!
+	* Não estarão, se o fizerem, condenados?
+		* Condenados estarão se não o fizerem: cada vez mais NÓS falamos, alto, contra eles
+		* Se entrarem no novo mercado, sem truques e cumprindo as regras de qualquer mercado... Como podem falhar?
+	* Então... mas...
+		* Não, não é assim tão simples.
+		* As grandes editoras estão cotadas em bolsa
+		* Venda? Lucros? Nada é mais importante que "stock". "margin" e "share". A prova?
+			* Share == non-attributable income: nada para o artista, tudo para os bolsos
+			* Margin == Margem de lucro, certo? Vender muito, ter muitos lucros...
+			* Errado: em bolsa fala-se em "unit margin", pelo que tudo é virtual
+				* Apesar de quanto mais se vender mais dinheiro se ganha...
+				* Quanto mais se ganhar por unidade (unit margin) melhor é o stock rate
+				* ... ou seja, mas investimento existe em bolsa, mais valem as acções...
+				* mais dinheiro! Mesmo que tudo seja virtual e inflacionado...
+			* Claro que quem sofre aí são os artistas...
+				* Além de venderem menos cópias...
+				* ...ainda recebem menos por cada cópia!
+			* E o retalho:
+				* Passou a haver "a venda online do single"
+				* Os grandes êxitos deixam de vender um CD de 15 faixas, as pessoas compram apenas o êxito!
+
+É só isso? Há-de haver outra face para a questão...
+	* O DRM é um cavalo de tróia
+		* Fabricantes de tecnologia (ver caso iTunes) passaram a controlar o mercado
+		* Editoras tentam fugir ao efeito de várias formas...
+			* ...sem se preocupar com o artista ou com o ouvinte
+
+Que raio... Mas pelos vistos nós sofremos, eles não!
+
+O "estado" das coisas:
+	* 90% da música digital é adquirida através de redes p2p
+	* estão a haver injecções de dinheiro na Universal para compensar a catástrofe nos gráficozinhos
+	* Warner Brothers estão a endividar-se progressivamente
+	* EMI tenta manter os números agradáveis, enquanto desespera por comprador
+	* BMG tenta descobrir como pagar dinheiro de black boxes para não haverem casos em praça pública
+	* Sony está confusa e sem direcção na sua gestão
+	* 2006 Q4: Venda de músicas no iTunes decresce pela primeira vez na história
+	* 2006-12: EMI vende 4 músicas no Yahoo! Music, sem DRM, para testar a venda de música sem o "efeito iTunes"
+	* 2007 marca o 11. ano em que a indústria discográfica se queixa da diminuição de vendas
+
+Porquê?
+	* Eles violaram todo o modelo de negócio
+	* Agora que há alternativas, quem se vai preocupar em lidar com o caos que eles causaram?
+
+Conceitos que nos tentam impingir:
+	* Fazer download de uma música não é ter o broadcast de uma música, é comprar uma música
+	* O download não autorizado é ilegal, roubo
+	* As tecnologias peer-to-peer são ilegais
+	* Compra a nossa música online e os artistas não morrem à fome (com 5% de preço de retalho por download, em vez dos 15% do CD? vamos comparar com os 35% dos artistas independentes...)
+	* Mas... partilha ficheiros, e além de ires parar ao inferno e à cadeia, os artistas (e um gatinho!) vão morrer dolorosamente!
+	* A Arte é um produto; o produto é o CD (ou, pior, a faixa)
+
+
