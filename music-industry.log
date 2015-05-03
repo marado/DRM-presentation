@@ -1,29 +1,26 @@
-This is pdfeTeXk, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2007.2.26)  22 MAR 2007 23:09
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2015.5.1)  2 MAY 2015 19:38
 entering extended mode
+ restricted \write18 enabled.
  file:line:error style messages enabled.
-**/home/marado/mlp/music-industry.tex
-(/home/marado/mlp/music-industry.tex
-LaTeX2e <2003/12/01>
-Babel <v3.8d> and hyphenation patterns for american, french, german, ngerman, b
-ahasa, basque, bulgarian, catalan, croatian, czech, danish, dutch, esperanto, e
-stonian, finnish, greek, icelandic, irish, italian, latin, magyar, norsk, polis
-h, portuges, romanian, russian, serbian, slovak, slovene, spanish, swedish, tur
-kish, ukrainian, nohyphenation, loaded.
-(/usr/share/texmf-tetex/tex/latex/base/slides.cls
+ %&-line parsing enabled.
+**\catcode126=12 \def\normaltilde{~}\catcode126=13 \let~\normaltilde  \input ./
+music-industry.tex
+(./music-industry.tex (/usr/share/texlive/texmf-dist/tex/latex/base/slides.cls
 Document Class: slides 1997/08/15 v2.3z Standard LaTeX document class
-(/usr/share/texmf-tetex/tex/latex/base/slides.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/slides.def
 File: slides.def 1997/08/15 v2.3z SLiTeX definitions
  hacks, slides,
 \c@page=\count79
- picture,
-mods,
+
+picture, mods,
 \@smashboxa=\box26
 \@smashboxb=\box27
 \@smashboxc=\box28
- output, init) (/usr/share/texmf-tetex/tex/latex/base/sfonts.def
+ output, init)
+(/usr/share/texlive/texmf-dist/tex/latex/base/sfonts.def
 File: sfonts.def 1998/06/12 v2.2e Standard LaTeX slide font definitions
 
-(/usr/share/texmf-tetex/tex/latex/base/ot1lcmss.fd
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1lcmss.fd
 File: ot1lcmss.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
 ))
 \c@minutes=\count80
@@ -47,37 +44,47 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `invisibl
 e'
 (Font)                  OMX/cmex/m/n --> OMX/lcmex/m/In on input line 385.
 )
-(/usr/share/texmf-tetex/tex/latex/base/inputenc.sty
-Package: inputenc 2004/02/05 v1.0d Input encoding file
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
 
-(/usr/share/texmf-tetex/tex/latex/base/latin1.def
-File: latin1.def 2004/02/05 v1.0d Input encoding file
+(/usr/share/texlive/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2008/03/30 v1.1d Input encoding file
 ))
-(/usr/share/texmf-tetex/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-tetex/tex/latex/graphics/keyval.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
-\KV@toks@=\toks14
+\KV@toks@=\toks16
 )
-(/usr/share/texmf-tetex/tex/latex/graphics/graphics.sty
-Package: graphics 2001/07/07 v1.0n Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-tetex/tex/latex/graphics/trig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/share/texmf-tetex/tex/latex/graphics/graphics.cfg
-File: graphics.cfg 2005/02/03 v1.3 graphics configuration of teTeX/TeXLive
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: pdftex.def on input line 80.
+Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/share/texmf-tetex/tex/latex/graphics/pdftex.def
-File: pdftex.def 2002/06/19 v0.03k graphics/color for pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
 \Gread@gobject=\count83
 ))
 \Gin@req@height=\dimen102
 \Gin@req@width=\dimen103
-) (./music-industry.aux)
+)
+(./music-industry.aux (./majors-market-share.aux))
 \openout1 = `music-industry.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
@@ -92,176 +99,264 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
-(/usr/share/texmf-tetex/tex/context/base/supp-pdf.tex
-(/usr/share/texmf-tetex/tex/context/base/supp-mis.tex
-loading : Context Support Macros / Miscellaneous (2004.10.26)
-\protectiondepth=\count84
-\scratchcounter=\count85
-\scratchtoks=\toks15
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count84
 \scratchdimen=\dimen104
-\scratchskip=\skip41
-\scratchmuskip=\muskip10
 \scratchbox=\box29
-\scratchread=\read1
-\scratchwrite=\write3
-\zeropoint=\dimen105
-\onepoint=\dimen106
-\onebasepoint=\dimen107
-\minusone=\count86
-\thousandpoint=\dimen108
-\onerealpoint=\dimen109
-\emptytoks=\toks16
-\nextbox=\box30
-\nextdepth=\dimen110
-\everyline=\toks17
-\!!counta=\count87
-\!!countb=\count88
-\recursecounter=\count89
-)
-loading : Context Support Macros / PDF (2004.03.26)
-\nofMPsegments=\count90
-\nofMParguments=\count91
-\MPscratchCnt=\count92
-\MPscratchDim=\dimen111
-\MPnumerator=\count93
+\nofMPsegments=\count85
+\nofMParguments=\count86
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count87
+\MPscratchDim=\dimen105
+\MPnumerator=\count88
+\makeMPintoPDFobject=\count89
 \everyMPtoPDFconversion=\toks18
-) [1
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+[1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-<mercado.png, id=12, 314.17375pt x 159.59625pt>
+<mercado.png, id=10, 314.17375pt x 159.59625pt>
 File: mercado.png Graphic file (type png)
  <use mercado.png>
-LaTeX Font Info:    Try loading font information for OML+lcmm on input line 81.
+Package pdftex.def Info: mercado.png used on input line 36.
+(pdftex.def)             Requested size: 314.17297pt x 159.59584pt.
+LaTeX Font Info:    Try loading font information for OML+lcmm on input line 39.
 
 
-(/usr/share/texmf-tetex/tex/latex/base/omllcmm.fd
+(/usr/share/texlive/texmf-dist/tex/latex/base/omllcmm.fd
 File: omllcmm.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
 )
-LaTeX Font Info:    Try loading font information for OMS+lcmsy on input line 81
+LaTeX Font Info:    Try loading font information for OMS+lcmsy on input line 39
 .
 
-(/usr/share/texmf-tetex/tex/latex/base/omslcmsy.fd
+(/usr/share/texlive/texmf-dist/tex/latex/base/omslcmsy.fd
 File: omslcmsy.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
 )
-LaTeX Font Info:    Try loading font information for OMX+lcmex on input line 81
+LaTeX Font Info:    Try loading font information for OMX+lcmex on input line 39
 .
 
-(/usr/share/texmf-tetex/tex/latex/base/omxlcmex.fd
+(/usr/share/texlive/texmf-dist/tex/latex/base/omxlcmex.fd
 File: omxlcmex.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
 )
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <16.59> on input line 81.
+(Font)              <16.59> on input line 39.
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <12> on input line 81.
+(Font)              <12> on input line 39.
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <7> on input line 81.
+(Font)              <7> on input line 39.
  [3 <./mercado.png>]
-[4]
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <19.907> on input line 131.
+(Font)              <19.907> on input line 51.
 LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
-(Font)              <13.82> on input line 131.
+(Font)              <13.82> on input line 51.
 
-Overfull \hbox (76.17642pt too wide) in paragraph at lines 131--132
+<major-labels-timeline.png, id=17, 602.25pt x 181.42781pt>
+File: major-labels-timeline.png Graphic file (type png)
+
+<use major-labels-timeline.png>
+Package pdftex.def Info: major-labels-timeline.png used on input line 53.
+(pdftex.def)             Requested size: 602.24852pt x 181.42737pt.
+ [4 <./major-labels-timeline.png>]
+\openout2 = `majors-market-share.aux'.
+
+
+(./majors-market-share.tex
+Package epstopdf Info: Source file: <majors-market-share.eps>
+(epstopdf)                    date: 2015-05-01 18:38:24
+(epstopdf)                    size: 4281 bytes
+(epstopdf)             Output file: <majors-market-share-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-05-01 18:38:29
+(epstopdf)                    size: 2821 bytes
+(epstopdf)             Command: <repstopdf --outfile=majors-market-share-eps-co
+nverted-to.pdf majors-market-share.eps>
+(epstopdf)             \includegraphics on input line 96.
+Package epstopdf Info: Output file is already uptodate.
+
+<majors-market-share-eps-converted-to.pdf, id=23, 650.43pt x 361.35pt>
+File: majors-market-share-eps-converted-to.pdf Graphic file (type pdf)
+
+<use majors-market-share-eps-converted-to.pdf>
+Package pdftex.def Info: majors-market-share-eps-converted-to.pdf used on input
+ line 96.
+(pdftex.def)             Requested size: 650.4284pt x 361.34912pt.
+)
+Overfull \hbox (0.4126pt too wide) in paragraph at lines 98--66
+[][] 
+ []
+
+[5
+
+ <./majors-market-share-eps-converted-to.pdf>] [6
+
+]
+Overfull \hbox (76.17642pt too wide) in paragraph at lines 86--87
 []\OT1/lcmss/m/n/19.907 Os avan^^Xcos tec-nol^^Sogicos eram con-tro-la-dos pela
  ind^^Sustria discogr^^Safica 
  []
 
-[5] [6] [7] [8] [9] [10] [11]
+[7] [8] [9] [10] [11] [12] [13]
+Overfull \hbox (15.89946pt too wide) in paragraph at lines 171--172
+[]\OT1/lcmss/m/n/19.907 Milhares de pes-soas boico-taram pro-du-tos da EMI por 
+venderem
+ []
 
-Class slides Warning: Slide 11 too long on input line 240.
 
-[11]
+Class slides Warning: Slide 13 too long on input line 174.
 
-Class slides Warning: Slide 11 too long on input line 244.
+[13]
 
-[11] [12] [13]
-Overfull \hbox (10.16626pt too wide) in paragraph at lines 276--277
+Class slides Warning: Slide 13 too long on input line 178.
+
+[13] [14] [15]
+Overfull \hbox (10.16626pt too wide) in paragraph at lines 210--211
 []\OT1/lcmss/m/n/19.907 Amantes da m^^Susica a faz-erem, sem con-trolo, a dis-t
 ribui^^Xc~ao! 
  []
 
 
-Class slides Warning: Slide 13 too long on input line 281.
-
-[13]
-
-Class slides Warning: Slide 13 too long on input line 291.
-
-[13] [14] [15]
-
-Class slides Warning: Slide 15 too long on input line 370.
+Class slides Warning: Slide 15 too long on input line 215.
 
 [15]
-Overfull \hbox (5.94974pt too wide) in paragraph at lines 378--379
-[]\OT1/lcmss/m/n/19.907 CD's cor-rompi-dos (nomeada-mente das ed-i-toras Sony, 
-EMI,
- []
 
-[16]
+Class slides Warning: Slide 15 too long on input line 225.
 
-Class slides Warning: Slide 16 too long on input line 399.
+[15] [16] [17]
 
-[16]
+Class slides Warning: Slide 17 too long on input line 250.
 
-Class slides Warning: Slide 16 too long on input line 408.
+[17] [18]
 
-[16] <drm0.png, id=85, 80.3pt x 80.3pt>
+Class slides Warning: Slide 18 too long on input line 277.
+
+[18]
+
+Class slides Warning: Slide 18 too long on input line 287.
+
+[18] [19] [20] <empresas-a-evitar.png, id=100, 548.449pt x 356.532pt>
+File: empresas-a-evitar.png Graphic file (type png)
+
+<use empresas-a-evitar.png>
+Package pdftex.def Info: empresas-a-evitar.png used on input line 315.
+(pdftex.def)             Requested size: 548.44765pt x 356.53111pt.
+ [21 <./empresas-a-evitar.png>]
+<drm0.png, id=105, 80.3pt x 80.3pt>
 File: drm0.png Graphic file (type png)
  <use drm0.png>
-<drm1.jpg, id=86, 361.35pt x 87.32625pt>
+Package pdftex.def Info: drm0.png used on input line 323.
+(pdftex.def)             Requested size: 80.29979pt x 80.29979pt.
+
+<drm1.jpg, id=106, 361.35pt x 87.32625pt>
 File: drm1.jpg Graphic file (type jpg)
  <use drm1.jpg>
-<drm2.jpg, id=87, 342.27875pt x 141.52875pt>
+Package pdftex.def Info: drm1.jpg used on input line 324.
+(pdftex.def)             Requested size: 361.34912pt x 87.32603pt.
+
+<drm2.jpg, id=107, 342.27875pt x 141.52875pt>
 File: drm2.jpg Graphic file (type jpg)
  <use drm2.jpg>
-<drm3.jpg, id=88, 241.65282pt x 70.01157pt>
+Package pdftex.def Info: drm2.jpg used on input line 325.
+(pdftex.def)             Requested size: 342.2779pt x 141.5284pt.
+
+<drm3.jpg, id=108, 241.65282pt x 70.01157pt>
 File: drm3.jpg Graphic file (type jpg)
- <use drm3.jpg> [17 <./drm0.png> <./drm1.jpg> <./drm2.jpg> <./drm3.jpg>] <cdda.
-jpg, id=93, 118.4425pt x 78.2925pt>
+ <use drm3.jpg>
+Package pdftex.def Info: drm3.jpg used on input line 326.
+(pdftex.def)             Requested size: 241.65222pt x 70.01138pt.
+ [22 <./drm0.png> <./drm1.jpg> <./drm2.jpg> <./drm3.jpg>]
+<cdda.jpg, id=113, 118.4425pt x 78.2925pt>
 File: cdda.jpg Graphic file (type jpg)
+ <use cdda.jpg>
+Package pdftex.def Info: cdda.jpg used on input line 332.
+(pdftex.def)             Requested size: 118.4422pt x 78.2923pt.
+ [23 <./cdda.jpg>]
+[24] [25]
 
-<use cdda.jpg> [18 <./cdda.jpg>] [19] [20]
+Class slides Warning: Slide 25 too long on input line 361.
 
-Class slides Warning: Slide 20 too long on input line 453.
+[25] [26]
 
-[20] [21]
+Class slides Warning: Slide 26 too long on input line 385.
 
-Class slides Warning: Slide 21 too long on input line 477.
-
-[21] [22] [23] [24]
-Overfull \hbox (26.27034pt too wide) in paragraph at lines 529--530
-[]\OT1/lcmss/m/n/19.907 2006: Em Por-tu-gal, os lu-cros do cin-ema au-men-taram
- 2.000.000
+[26] [27] [28] [29] [30]
+Overfull \hbox (0.28064pt too wide) in paragraph at lines 434--435
+[]\OT1/lcmss/m/n/19.907 Apesar de tec-ni-ca-mente semel-hantes ^^Ra m^^Susica, 
+os au-dio livros
  []
 
-[25]
 
-Class slides Warning: Slide 25 too long on input line 534.
+Class slides Warning: Slide 30 too long on input line 437.
 
-[25] [26] [27] [28] [29] [30] [31] (./music-industry.aux) ) 
+[30] [31] [32] [33] [34]
+
+Class slides Warning: Slide 34 too long on input line 495.
+
+[34] [35] (./music-industry.aux (./majors-market-share.aux)) ) 
 Here is how much of TeX's memory you used:
- 1049 strings out of 94500
- 13993 string characters out of 1175771
- 60074 words of memory out of 1000000
- 4244 multiletter control sequences out of 10000+50000
- 10353 words of font info for 36 fonts, out of 500000 for 2000
- 580 hyphenation exceptions out of 8191
- 25i,4n,19p,247b,281s stack positions out of 1500i,500n,5000p,200000b,5000s
+ 1688 strings out of 495059
+ 25273 string characters out of 3182031
+ 75839 words of memory out of 3000000
+ 4841 multiletter control sequences out of 15000+200000
+ 10353 words of font info for 36 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 37i,6n,25p,317b,324s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/latxfont/lcmss8.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/latxfont/lcmssb8.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/latxfont/lcmssi8.pfb>
+Output written on music-industry.pdf (46 pages, 206045 bytes).
 PDF statistics:
- 149 PDF objects out of 300000
- 0 named destinations out of 131072
- 31 words of extra memory for PDF output out of 65536
- </home/marado/.texm
-f-var/fonts/pk/ljfour/public/cm/cmmi8.1244pk> </home/marado/.texmf-var/fonts/pk
-/ljfour/public/latex/lcmssi8.1244pk> </home/marado/.texmf-var/fonts/pk/ljfour/p
-ublic/latex/lcmssb8.1493pk> </home/marado/.texmf-var/fonts/pk/ljfour/public/lat
-ex/lcmssi8.1493pk> </home/marado/.texmf-var/fonts/pk/ljfour/public/cm/cmsy8.149
-3pk> </home/marado/.texmf-var/fonts/pk/ljfour/public/latex/lcmssb8.1244pk> </ho
-me/marado/.texmf-var/fonts/pk/ljfour/public/latex/lcmss8.1244pk> </home/marado/
-.texmf-var/fonts/pk/ljfour/public/cm/cmsy8.1244pk> </home/marado/.texmf-var/fon
-ts/pk/ljfour/public/latex/lcmss8.3096pk> </home/marado/.texmf-var/fonts/pk/ljfo
-ur/public/latex/lcmss8.1037pk> </home/marado/.texmf-var/fonts/pk/ljfour/public/
-latex/lcmss8.1493pk> </home/marado/.texmf-var/fonts/pk/ljfour/public/latex/lcms
-s8.2150pk>
-Output written on music-industry.pdf (41 pages, 196740 bytes).
+ 186 PDF objects out of 1000 (max. 8388607)
+ 119 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+
