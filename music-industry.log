@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2015.5.1)  3 MAY 2015 17:58
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2015.5.1)  3 MAY 2015 18:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -273,81 +273,81 @@ Class slides Warning: Slide 15 too long on input line 225.
 
 Class slides Warning: Slide 17 too long on input line 250.
 
-[17] [18]
+[17] [18] [19]
 
-Class slides Warning: Slide 18 too long on input line 277.
+Class slides Warning: Slide 19 too long on input line 293.
 
-[18]
+[19]
 
-Class slides Warning: Slide 18 too long on input line 287.
+Class slides Warning: Slide 19 too long on input line 303.
 
-[18] [19] [20] <empresas-a-evitar.png, id=100, 548.449pt x 356.532pt>
+[19] [20] [21] <empresas-a-evitar.png, id=103, 548.449pt x 356.532pt>
 File: empresas-a-evitar.png Graphic file (type png)
 
 <use empresas-a-evitar.png>
-Package pdftex.def Info: empresas-a-evitar.png used on input line 315.
+Package pdftex.def Info: empresas-a-evitar.png used on input line 331.
 (pdftex.def)             Requested size: 548.44765pt x 356.53111pt.
- [21 <./empresas-a-evitar.png>]
-<drm0.png, id=105, 80.3pt x 80.3pt>
+ [22 <./empresas-a-evitar.png>]
+<drm0.png, id=108, 80.3pt x 80.3pt>
 File: drm0.png Graphic file (type png)
  <use drm0.png>
-Package pdftex.def Info: drm0.png used on input line 323.
+Package pdftex.def Info: drm0.png used on input line 339.
 (pdftex.def)             Requested size: 80.29979pt x 80.29979pt.
 
-<drm1.jpg, id=106, 361.35pt x 87.32625pt>
+<drm1.jpg, id=109, 361.35pt x 87.32625pt>
 File: drm1.jpg Graphic file (type jpg)
  <use drm1.jpg>
-Package pdftex.def Info: drm1.jpg used on input line 324.
+Package pdftex.def Info: drm1.jpg used on input line 340.
 (pdftex.def)             Requested size: 361.34912pt x 87.32603pt.
 
-<drm2.jpg, id=107, 342.27875pt x 141.52875pt>
+<drm2.jpg, id=110, 342.27875pt x 141.52875pt>
 File: drm2.jpg Graphic file (type jpg)
  <use drm2.jpg>
-Package pdftex.def Info: drm2.jpg used on input line 325.
+Package pdftex.def Info: drm2.jpg used on input line 341.
 (pdftex.def)             Requested size: 342.2779pt x 141.5284pt.
 
-<drm3.jpg, id=108, 241.65282pt x 70.01157pt>
+<drm3.jpg, id=111, 241.65282pt x 70.01157pt>
 File: drm3.jpg Graphic file (type jpg)
  <use drm3.jpg>
-Package pdftex.def Info: drm3.jpg used on input line 326.
+Package pdftex.def Info: drm3.jpg used on input line 342.
 (pdftex.def)             Requested size: 241.65222pt x 70.01138pt.
- [22 <./drm0.png> <./drm1.jpg> <./drm2.jpg> <./drm3.jpg>]
-<cdda.jpg, id=113, 118.4425pt x 78.2925pt>
+ [23 <./drm0.png> <./drm1.jpg> <./drm2.jpg> <./drm3.jpg>]
+<cdda.jpg, id=116, 118.4425pt x 78.2925pt>
 File: cdda.jpg Graphic file (type jpg)
  <use cdda.jpg>
-Package pdftex.def Info: cdda.jpg used on input line 332.
+Package pdftex.def Info: cdda.jpg used on input line 348.
 (pdftex.def)             Requested size: 118.4422pt x 78.2923pt.
- [23 <./cdda.jpg>]
-[24] [25]
+ [24 <./cdda.jpg>]
+[25] [26]
 
-Class slides Warning: Slide 25 too long on input line 361.
+Class slides Warning: Slide 26 too long on input line 377.
 
-[25]
-Overfull \hbox (5.40352pt too wide) in paragraph at lines 373--375
+[26]
+Overfull \hbox (5.40352pt too wide) in paragraph at lines 389--391
 []\OT1/lcmss/m/n/16.59 Exemplos: desde ban-das com enormes ven-das, como os Bar
 e-naked Ladies,
  []
 
-[26] [27] [28] [29] [30] [31]
-Overfull \hbox (0.28064pt too wide) in paragraph at lines 448--449
+[27] [28] [29] [30] [31] [32]
+Overfull \hbox (0.28064pt too wide) in paragraph at lines 464--465
 []\OT1/lcmss/m/n/19.907 Apesar de tec-ni-ca-mente semel-hantes ^^Ra m^^Susica, 
 os au-dio livros
  []
 
 
-Class slides Warning: Slide 31 too long on input line 451.
+Class slides Warning: Slide 32 too long on input line 467.
 
-[31] [32] [33] [34] <dbd_apple_watch.png, id=159, 401.5pt x 301.125pt>
+[32] [33] [34] [35] <dbd_apple_watch.png, id=162, 401.5pt x 301.125pt>
 File: dbd_apple_watch.png Graphic file (type png)
 
 <use dbd_apple_watch.png>
-Package pdftex.def Info: dbd_apple_watch.png used on input line 505.
+Package pdftex.def Info: dbd_apple_watch.png used on input line 523.
 (pdftex.def)             Requested size: 401.49901pt x 301.12425pt.
- [35 <./dbd_apple_watch.png>] [36] [37] [38] [39]
+ [36 <./dbd_apple_watch.png>] [37] [38] [39] [40]
 
-Class slides Warning: Slide 39 too long on input line 552.
+Class slides Warning: Slide 40 too long on input line 569.
 
-[39] [40] (./music-industry.aux (./majors-market-share.aux)) ) 
+[40] [41] (./music-industry.aux (./majors-market-share.aux)) ) 
 Here is how much of TeX's memory you used:
  1695 strings out of 495059
  25414 string characters out of 3182031
@@ -361,10 +361,10 @@ ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/latxfont/lcmss8.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/latxfont/lcmssb8.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/latxfont/lcmssi8.pfb>
-Output written on music-industry.pdf (50 pages, 375988 bytes).
+Output written on music-industry.pdf (51 pages, 376583 bytes).
 PDF statistics:
- 201 PDF objects out of 1000 (max. 8388607)
- 128 compressed objects within 2 object streams
+ 204 PDF objects out of 1000 (max. 8388607)
+ 130 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
