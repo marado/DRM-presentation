@@ -1,7 +1,0 @@
-1 - 8 	a indústria discográfica		8
-9 -13 	DRM								5
-14-17 	I. D.							4
-18-25 	DRM								8
-26-32 	iTMS							7
-33-37 	ACTUALIDADE						5
-38-41	FIM								4
