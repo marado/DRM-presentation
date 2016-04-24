@@ -4,7 +4,7 @@ What year is it? 2015, already?
 
 Well, I've been fighting DRM - and using this presentation to speak about it - for more than 10 years now. 
 
-There are lots of versions of it, but my plan for this repository is to make the latest version every available to you.
+There are lots of versions of it, but my plan for this repository is to make the latest version ever available to you.
 
 Notice that, until now, I never did an English version of this presentation, so what you'll see here is in Portuguese. If I ever end up delivering a talk about DRM in English, it is probable that I'll make an English version of this, and I'll have the two variants here by then.
 
