@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.3.24)  24 MAR 2017 23:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.3.24)  6 APR 2017 01:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -204,7 +204,7 @@ LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
 File: major-labels-timeline.png Graphic file (type png)
 
 <use major-labels-timeline.png>
-Package pdftex.def Info: major-labels-timeline.png used on input line 63.
+Package pdftex.def Info: major-labels-timeline.png used on input line 70.
 (pdftex.def)             Requested size: 602.24852pt x 181.42737pt.
  [4 </home/marado/github/DRM-presentation/major-labels-timeline.png>]
 \openout2 = `majors-market-share.aux'.
@@ -230,7 +230,7 @@ Package pdftex.def Info: majors-market-share-eps-converted-to.pdf used on input
  line 96.
 (pdftex.def)             Requested size: 650.4284pt x 361.34912pt.
 )
-Overfull \hbox (0.4126pt too wide) in paragraph at lines 98--76
+Overfull \hbox (0.4126pt too wide) in paragraph at lines 98--83
 [][] 
  []
 
@@ -240,78 +240,78 @@ Overfull \hbox (0.4126pt too wide) in paragraph at lines 98--76
 >] [6
 
 ]
-Overfull \hbox (76.17642pt too wide) in paragraph at lines 96--97
+Overfull \hbox (76.17642pt too wide) in paragraph at lines 103--104
 []\OT1/lcmss/m/n/19.907 Os avan^^Xcos tec-nol^^Sogicos eram con-tro-la-dos pela
  ind^^Sustria discogr^^Safica 
  []
 
 [7] [8] [9] [10] [11] [12] [13]
-Overfull \hbox (15.89946pt too wide) in paragraph at lines 181--182
+Overfull \hbox (15.89946pt too wide) in paragraph at lines 188--189
 []\OT1/lcmss/m/n/19.907 Milhares de pes-soas boico-taram pro-du-tos da EMI por 
 venderem
  []
 
 
-Class slides Warning: Slide 13 too long on input line 184.
+Class slides Warning: Slide 13 too long on input line 191.
 
 [13]
 
-Class slides Warning: Slide 13 too long on input line 188.
+Class slides Warning: Slide 13 too long on input line 195.
 
 [13] [14] [15]
-Overfull \hbox (10.16626pt too wide) in paragraph at lines 220--221
+Overfull \hbox (10.16626pt too wide) in paragraph at lines 227--228
 []\OT1/lcmss/m/n/19.907 Amantes da m^^Susica a faz-erem, sem con-trolo, a dis-t
 ribui^^Xc~ao! 
  []
 
 
-Class slides Warning: Slide 15 too long on input line 225.
+Class slides Warning: Slide 15 too long on input line 232.
 
 [15]
 
-Class slides Warning: Slide 15 too long on input line 235.
+Class slides Warning: Slide 15 too long on input line 242.
 
 [15] [16] [17]
 
-Class slides Warning: Slide 17 too long on input line 260.
+Class slides Warning: Slide 17 too long on input line 267.
 
 [17] [18] [19]
 
-Class slides Warning: Slide 19 too long on input line 302.
+Class slides Warning: Slide 19 too long on input line 309.
 
 [19]
 
-Class slides Warning: Slide 19 too long on input line 312.
+Class slides Warning: Slide 19 too long on input line 319.
 
 [19] [20] [21] <empresas-a-evitar.png, id=103, 548.449pt x 356.532pt>
 File: empresas-a-evitar.png Graphic file (type png)
 
 <use empresas-a-evitar.png>
-Package pdftex.def Info: empresas-a-evitar.png used on input line 340.
+Package pdftex.def Info: empresas-a-evitar.png used on input line 347.
 (pdftex.def)             Requested size: 548.44765pt x 356.53111pt.
  [22 </home/marado/github/DRM-presentation/empresas-a-evitar.png>] <drm0.png, i
 d=108, 80.3pt x 80.3pt>
 File: drm0.png Graphic file (type png)
  <use drm0.png>
-Package pdftex.def Info: drm0.png used on input line 348.
+Package pdftex.def Info: drm0.png used on input line 355.
 (pdftex.def)             Requested size: 80.29979pt x 80.29979pt.
 
 <drm1.jpg, id=109, 361.35pt x 87.32625pt>
 File: drm1.jpg Graphic file (type jpg)
  <use drm1.jpg>
-Package pdftex.def Info: drm1.jpg used on input line 349.
+Package pdftex.def Info: drm1.jpg used on input line 356.
 (pdftex.def)             Requested size: 361.34912pt x 87.32603pt.
 
 <drm2.jpg, id=110, 342.27875pt x 141.52875pt>
 File: drm2.jpg Graphic file (type jpg)
  <use drm2.jpg>
-Package pdftex.def Info: drm2.jpg used on input line 350.
+Package pdftex.def Info: drm2.jpg used on input line 357.
 (pdftex.def)             Requested size: 342.2779pt x 141.5284pt.
 
 <drm3.jpg, id=111, 241.65282pt x 70.01157pt>
 File: drm3.jpg Graphic file (type jpg)
  <use drm3.jpg>
-Package pdftex.def Info: drm3.jpg used on input line 351.
+Package pdftex.def Info: drm3.jpg used on input line 358.
 (pdftex.def)             Requested size: 241.65222pt x 70.01138pt.
  [23 </home/marado/github/DRM-presentation/drm0.png> </home/marado/github/DRM-p
 resentation/drm1.jpg> </home/marado/github/DRM-presentation/drm2.jpg> </home/ma
@@ -319,35 +319,35 @@ rado/github/DRM-presentation/drm3.jpg>] <cdda.jpg, id=116, 118.4425pt x 78.2925
 pt>
 File: cdda.jpg Graphic file (type jpg)
  <use cdda.jpg>
-Package pdftex.def Info: cdda.jpg used on input line 357.
+Package pdftex.def Info: cdda.jpg used on input line 364.
 (pdftex.def)             Requested size: 118.4422pt x 78.2923pt.
 
 [24 </home/marado/github/DRM-presentation/cdda.jpg>] [25] [26] [27]
-Overfull \hbox (0.28064pt too wide) in paragraph at lines 489--490
+Overfull \hbox (0.28064pt too wide) in paragraph at lines 496--497
 []\OT1/lcmss/m/n/19.907 Apesar de tec-ni-ca-mente semel-hantes ^^Ra m^^Susica, 
 os au-dio livros
  []
 
 
-Class slides Warning: Slide 27 too long on input line 492.
+Class slides Warning: Slide 27 too long on input line 499.
 
 [27] [28] [29] [30] <dbd_apple_watch.png, id=143, 401.5pt x 301.125pt>
 File: dbd_apple_watch.png Graphic file (type png)
 
 <use dbd_apple_watch.png>
-Package pdftex.def Info: dbd_apple_watch.png used on input line 548.
+Package pdftex.def Info: dbd_apple_watch.png used on input line 555.
 (pdftex.def)             Requested size: 401.49901pt x 301.12425pt.
  [31 </home/marado/github/DRM-presentation/dbd_apple_watch.png>] [32] [33] [34]
  [35]
 
-Class slides Warning: Slide 35 too long on input line 594.
+Class slides Warning: Slide 35 too long on input line 601.
 
 [35] [36] (/home/marado/github/DRM-presentation/music-industry.aux
 (/home/marado/github/DRM-presentation/majors-market-share.aux)) ) 
 Here is how much of TeX's memory you used:
  1701 strings out of 494945
  25960 string characters out of 6181032
- 77481 words of memory out of 5000000
+ 77438 words of memory out of 5000000
  4963 multiletter control sequences out of 15000+600000
  10353 words of font info for 36 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -357,7 +357,7 @@ xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/latxfont/lcmss8.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/latxfont/lcmssb8.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/public/amsfonts/latxfont/lcmssi8.pfb>
-Output written on music-industry.pdf (45 pages, 371755 bytes).
+Output written on music-industry.pdf (45 pages, 371569 bytes).
 PDF statistics:
  185 PDF objects out of 1000 (max. 8388607)
  117 compressed objects within 2 object streams
