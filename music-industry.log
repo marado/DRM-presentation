@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.3.24)  6 APR 2017 01:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.3.24)  8 APR 2017 21:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -211,26 +211,34 @@ Package pdftex.def Info: major-labels-timeline.png used on input line 70.
 
 
 (/home/marado/github/DRM-presentation/majors-market-share.tex
+\gptboxheight=\skip41
+\gptboxwidth=\skip42
+\gptboxtext=\box30
 Package epstopdf Info: Source file: <majors-market-share.eps>
-(epstopdf)                    date: 2017-03-24 22:43:56
-(epstopdf)                    size: 4281 bytes
+(epstopdf)                    date: 2017-04-08 21:38:48
+(epstopdf)                    size: 4473 bytes
 (epstopdf)             Output file: <majors-market-share-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-03-24 22:43:56
-(epstopdf)                    size: 2821 bytes
+(epstopdf)                    date: 2017-04-08 21:37:51
+(epstopdf)                    size: 2825 bytes
 (epstopdf)             Command: <repstopdf --outfile=majors-market-share-eps-co
 nverted-to.pdf majors-market-share.eps>
-(epstopdf)             \includegraphics on input line 96.
-Package epstopdf Info: Output file is already uptodate.
+(epstopdf)             \includegraphics on input line 120.
+runsystem(repstopdf --outfile=majors-market-share-eps-converted-to.pdf majors-m
+arket-share.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <majors-market-share-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-04-08 21:38:54
+(epstopdf)                    size: 2854 bytes.
 
 <majors-market-share-eps-converted-to.pdf, id=23, 650.43pt x 361.35pt>
 File: majors-market-share-eps-converted-to.pdf Graphic file (type pdf)
 
 <use majors-market-share-eps-converted-to.pdf>
 Package pdftex.def Info: majors-market-share-eps-converted-to.pdf used on input
- line 96.
+ line 120.
 (pdftex.def)             Requested size: 650.4284pt x 361.34912pt.
 )
-Overfull \hbox (0.4126pt too wide) in paragraph at lines 98--83
+Overfull \hbox (0.4126pt too wide) in paragraph at lines 122--83
 [][] 
  []
 
@@ -345,19 +353,19 @@ Class slides Warning: Slide 35 too long on input line 601.
 [35] [36] (/home/marado/github/DRM-presentation/music-industry.aux
 (/home/marado/github/DRM-presentation/majors-market-share.aux)) ) 
 Here is how much of TeX's memory you used:
- 1701 strings out of 494945
- 25960 string characters out of 6181032
+ 1705 strings out of 494945
+ 25996 string characters out of 6181032
  77438 words of memory out of 5000000
- 4963 multiletter control sequences out of 15000+600000
+ 4967 multiletter control sequences out of 15000+600000
  10353 words of font info for 36 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 39i,6n,25p,249b,324s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,6n,26p,249b,324s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/te
 xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/latxfont/lcmss8.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/latxfont/lcmssb8.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/public/amsfonts/latxfont/lcmssi8.pfb>
-Output written on music-industry.pdf (45 pages, 371569 bytes).
+Output written on music-industry.pdf (45 pages, 371610 bytes).
 PDF statistics:
  185 PDF objects out of 1000 (max. 8388607)
  117 compressed objects within 2 object streams

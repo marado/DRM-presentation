@@ -71,26 +71,50 @@
       \expandafter\def\csname LT8\endcsname{\color{black}}%
     \fi
   \fi
-  \setlength{\unitlength}{0.0500bp}%
-  \begin{picture}(12960.00,7200.00)%
+    \setlength{\unitlength}{0.0500bp}%
+    \ifx\gptboxheight\undefined%
+      \newlength{\gptboxheight}%
+      \newlength{\gptboxwidth}%
+      \newsavebox{\gptboxtext}%
+    \fi%
+    \setlength{\fboxrule}{0.5pt}%
+    \setlength{\fboxsep}{1pt}%
+\begin{picture}(12960.00,7200.00)%
     \gplgaddtomacro\gplbacktext{%
-      \put(561,372){\makebox(0,0)[r]{\strut{} 0}}%
-      \put(561,1626){\makebox(0,0)[r]{\strut{} 20}}%
-      \put(561,2880){\makebox(0,0)[r]{\strut{} 40}}%
-      \put(561,4133){\makebox(0,0)[r]{\strut{} 60}}%
-      \put(561,5387){\makebox(0,0)[r]{\strut{} 80}}%
-      \put(561,6641){\makebox(0,0)[r]{\strut{} 100}}%
-      \put(1462,186){\makebox(0,0){\strut{} 2000}}%
-      \put(3061,186){\makebox(0,0){\strut{} 2002}}%
-      \put(4660,186){\makebox(0,0){\strut{} 2004}}%
-      \put(6258,186){\makebox(0,0){\strut{} 2006}}%
-      \put(7857,186){\makebox(0,0){\strut{} 2008}}%
-      \put(9456,186){\makebox(0,0){\strut{} 2010}}%
-      \put(11054,186){\makebox(0,0){\strut{} 2012}}%
-      \put(12653,186){\makebox(0,0){\strut{} 2014}}%
-      \put(6658,6920){\makebox(0,0){\strut{}Major Labels - Market Share}}%
+      \csname LTb\endcsname%
+      \put(459,372){\makebox(0,0)[r]{\strut{}$0$}}%
+      \csname LTb\endcsname%
+      \put(459,1626){\makebox(0,0)[r]{\strut{}$20$}}%
+      \csname LTb\endcsname%
+      \put(459,2880){\makebox(0,0)[r]{\strut{}$40$}}%
+      \csname LTb\endcsname%
+      \put(459,4133){\makebox(0,0)[r]{\strut{}$60$}}%
+      \csname LTb\endcsname%
+      \put(459,5387){\makebox(0,0)[r]{\strut{}$80$}}%
+      \csname LTb\endcsname%
+      \put(459,6641){\makebox(0,0)[r]{\strut{}$100$}}%
+      \csname LTb\endcsname%
+      \put(1272,186){\makebox(0,0){\strut{}$2000$}}%
+      \csname LTb\endcsname%
+      \put(2695,186){\makebox(0,0){\strut{}$2002$}}%
+      \csname LTb\endcsname%
+      \put(4117,186){\makebox(0,0){\strut{}$2004$}}%
+      \csname LTb\endcsname%
+      \put(5540,186){\makebox(0,0){\strut{}$2006$}}%
+      \csname LTb\endcsname%
+      \put(6963,186){\makebox(0,0){\strut{}$2008$}}%
+      \csname LTb\endcsname%
+      \put(8385,186){\makebox(0,0){\strut{}$2010$}}%
+      \csname LTb\endcsname%
+      \put(9808,186){\makebox(0,0){\strut{}$2012$}}%
+      \csname LTb\endcsname%
+      \put(11230,186){\makebox(0,0){\strut{}$2014$}}%
+      \csname LTb\endcsname%
+      \put(12653,186){\makebox(0,0){\strut{}$2016$}}%
     }%
     \gplgaddtomacro\gplfronttext{%
+      \csname LTb\endcsname%
+      \put(6607,6920){\makebox(0,0){\strut{}Major Labels - Market Share}}%
     }%
     \gplbacktext
     \put(0,0){\includegraphics{majors-market-share}}%
